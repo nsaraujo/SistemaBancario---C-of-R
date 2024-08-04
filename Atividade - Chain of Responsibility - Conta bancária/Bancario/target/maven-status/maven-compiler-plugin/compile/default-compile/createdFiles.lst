@@ -1,0 +1,7 @@
+com\mycompany\bancario\Bancario.class
+com\mycompany\bancario\Transaction.class
+com\mycompany\bancario\TransferHandler.class
+com\mycompany\bancario\Account.class
+com\mycompany\bancario\WithdrawHandler.class
+com\mycompany\bancario\TransactionHandler.class
+com\mycompany\bancario\DepositHandler.class
